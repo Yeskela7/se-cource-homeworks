@@ -21,3 +21,5 @@ If the user inputs a division operation and the second number is 0, the program 
 The program should handle invalid operator input and prompt the user again if an unsupported operator is entered.
 
 The program should continuously prompt the user for calculations until they choose to exit by entering "exit" instead of a number.
+
+**Use switch-case and separated methods for arithmetic operations, like `addNumbers(double mun1, double num2)`**
